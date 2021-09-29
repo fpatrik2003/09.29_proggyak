@@ -1,0 +1,32 @@
+h1{
+    font-size: 36px;
+    color: rgba(0,0,0,.8);
+}
+
+h1, figcaption{
+    text-align: center;
+    font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+figure{
+    margin: 0;
+    
+}
+
+article{
+    max-width: 700px;
+    letter-spacing: 10px;
+}
+
+p{
+    color: rgba(0,0,0,.8);
+    font-family: Georgia, Cambria,"Times New Roman", Times, serif;
+    font-size: 21px;
+    letter-spacing: -.003em;
+    row-gap: 1.58;
+}
